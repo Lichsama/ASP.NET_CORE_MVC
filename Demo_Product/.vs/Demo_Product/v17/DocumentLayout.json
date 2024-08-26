@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|c:\\users\\skrll\\onedrive\\masa\u00FCst\u00FC\\github\\asp.net_core_mvc\\demo_product\\demo_product\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Demo_Product\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Demo_Product\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:38:19.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\DataAccessLayer\bin\Debug\net8.0\Entity Layer.dll
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\DataAccessLayer\bin\Debug\net8.0\Entity Layer.pdb
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

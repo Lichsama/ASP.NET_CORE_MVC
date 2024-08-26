@@ -1,0 +1,13 @@
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\Entity Layer\bin\Debug\net8.0\Entity Layer.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\Entity Layer\bin\Debug\net8.0\Entity Layer.dll
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\Entity Layer\bin\Debug\net8.0\Entity Layer.pdb
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\Entity Layer\obj\Debug\net8.0\Entity Layer.csproj.AssemblyReference.cache
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\Entity Layer\obj\Debug\net8.0\Entity Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\Entity Layer\obj\Debug\net8.0\Entity Layer.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\Entity Layer\obj\Debug\net8.0\Entity Layer.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\Entity Layer\obj\Debug\net8.0\Entity Layer.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\Entity Layer\obj\Debug\net8.0\Entity Layer.sourcelink.json
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\Entity Layer\obj\Debug\net8.0\Entity Layer.dll
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\Entity Layer\obj\Debug\net8.0\refint\Entity Layer.dll
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\Entity Layer\obj\Debug\net8.0\Entity Layer.pdb
+C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\Entity Layer\obj\Debug\net8.0\ref\Entity Layer.dll
