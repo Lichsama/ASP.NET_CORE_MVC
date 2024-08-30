@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|c:\\users\\skrll\\onedrive\\masa\u00FCst\u00FC\\github\\asp.net_core_mvc\\demo_product\\demo_product\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|c:\\users\\skrll\\onedrive\\masa\u00FCst\u00FC\\github\\asp.net_core_mvc\\demo_product\\demo_product\\wwwroot\\startbootstrap-sb-admin-gh-pages\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\wwwroot\\startbootstrap-sb-admin-gh-pages\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|c:\\users\\skrll\\onedrive\\masa\u00FCst\u00FC\\github\\asp.net_core_mvc\\demo_product\\demo_product\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "register.html",
+              "DocumentMoniker": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\wwwroot\\startbootstrap-sb-admin-gh-pages\\register.html",
+              "RelativeDocumentMoniker": "Demo_Product\\wwwroot\\startbootstrap-sb-admin-gh-pages\\register.html",
+              "ToolTip": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\wwwroot\\startbootstrap-sb-admin-gh-pages\\register.html",
+              "RelativeToolTip": "Demo_Product\\wwwroot\\startbootstrap-sb-admin-gh-pages\\register.html",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-30T15:10:25.845Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Views\\Register\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo_Product\\Views\\Register\\Index.cshtml",
+              "ToolTip": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Views\\Register\\Index.cshtml",
+              "RelativeToolTip": "Demo_Product\\Views\\Register\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAE8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T15:11:26.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "Demo_Product\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "Demo_Product\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:10:00.838Z",
+              "EditorCaption": ""
             }
           ]
         }

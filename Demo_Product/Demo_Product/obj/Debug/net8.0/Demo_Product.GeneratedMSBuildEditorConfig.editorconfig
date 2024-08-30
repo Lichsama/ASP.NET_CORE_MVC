@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\Demo_Product
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/skrll/OneDrive/Masaüstü/Github/ASP.NET_CORE_MVC/Demo_Product/Demo_Product/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/skrll/OneDrive/Masaüstü/Github/ASP.NET_CORE_MVC/Demo_Product/Demo_Product/Views/Customer/AddCustomer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQWRkQ3VzdG9tZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -84,6 +88,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/skrll/OneDrive/Masaüstü/Github/ASP.NET_CORE_MVC/Demo_Product/Demo_Product/Views/Product/UpdateProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxVcGRhdGVQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skrll/OneDrive/Masaüstü/Github/ASP.NET_CORE_MVC/Demo_Product/Demo_Product/Views/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skrll/OneDrive/Masaüstü/Github/ASP.NET_CORE_MVC/Demo_Product/Demo_Product/Views/Settings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0dGluZ3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/skrll/OneDrive/Masaüstü/Github/ASP.NET_CORE_MVC/Demo_Product/Demo_Product/Views/Shared/Error.cshtml]

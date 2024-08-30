@@ -1,0 +1,12 @@
+﻿* Arama İşlemi
+* Üyelik Sistemi
+* Identity
+* Yardım Popup
+* Footer - Done
+* Ayarlar
+* Çıkış Yap
+* Giriş Yap
+* Yeni Üye Kaydı
+* Admin --> Asp.Net User
+* Publish
+* Porjenin canlıya taşınması
