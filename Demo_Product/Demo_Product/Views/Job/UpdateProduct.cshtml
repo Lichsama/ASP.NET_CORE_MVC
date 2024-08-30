@@ -1,0 +1,15 @@
+﻿@model Entity_Layer.Concrete.Product
+@{
+    ViewData["Title"] = "UpdateJob";
+    Layout = "~/Views/Shared/_UILayout.cshtml";
+}
+
+<form method="post">
+    @Html.Label("Ürün Adı")
+    @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-info">Mesleği Güncelle</button>
+</form>
+
+
+

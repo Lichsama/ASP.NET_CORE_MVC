@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|c:\\users\\skrll\\onedrive\\masa\u00FCst\u00FC\\github\\asp.net_core_mvc\\demo_product\\demo_product\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|c:\\users\\skrll\\onedrive\\masa\u00FCst\u00FC\\github\\asp.net_core_mvc\\demo_product\\demo_product\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|c:\\users\\skrll\\onedrive\\masa\u00FCst\u00FC\\github\\asp.net_core_mvc\\demo_product\\demo_product\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4068BFA7-9E6E-4C7A-ACF2-7F23FE32843A}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\skrll\\onedrive\\masa\u00FCst\u00FC\\github\\asp.net_core_mvc\\demo_product\\businesslayer\\concrete\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4068BFA7-9E6E-4C7A-ACF2-7F23FE32843A}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|c:\\users\\skrll\\onedrive\\masa\u00FCst\u00FC\\github\\asp.net_core_mvc\\demo_product\\demo_product\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4068BFA7-9E6E-4C7A-ACF2-7F23FE32843A}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\skrll\\onedrive\\masa\u00FCst\u00FC\\github\\asp.net_core_mvc\\demo_product\\businesslayer\\abstract\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4068BFA7-9E6E-4C7A-ACF2-7F23FE32843A}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|c:\\users\\skrll\\onedrive\\masa\u00FCst\u00FC\\github\\asp.net_core_mvc\\demo_product\\demo_product\\views\\product\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\views\\product\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4068BFA7-9E6E-4C7A-ACF2-7F23FE32843A}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\skrll\\onedrive\\masa\u00FCst\u00FC\\github\\asp.net_core_mvc\\demo_product\\businesslayer\\abstract\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4068BFA7-9E6E-4C7A-ACF2-7F23FE32843A}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|c:\\users\\skrll\\onedrive\\masa\u00FCst\u00FC\\github\\asp.net_core_mvc\\demo_product\\demo_product\\views\\shared\\_uilayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\views\\shared\\_uilayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4068BFA7-9E6E-4C7A-ACF2-7F23FE32843A}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\skrll\\onedrive\\masa\u00FCst\u00FC\\github\\asp.net_core_mvc\\demo_product\\businesslayer\\concrete\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4068BFA7-9E6E-4C7A-ACF2-7F23FE32843A}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|c:\\users\\skrll\\onedrive\\masa\u00FCst\u00FC\\github\\asp.net_core_mvc\\demo_product\\demo_product\\views\\partials\\partial_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\views\\partials\\partial_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F86A5067-B154-4853-83AC-45B4243E276D}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\skrll\\onedrive\\masa\u00FCst\u00FC\\github\\asp.net_core_mvc\\demo_product\\dataaccesslayer\\entityframework\\efcustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F86A5067-B154-4853-83AC-45B4243E276D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entityframework\\efcustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86A5067-B154-4853-83AC-45B4243E276D}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\skrll\\onedrive\\masa\u00FCst\u00FC\\github\\asp.net_core_mvc\\demo_product\\dataaccesslayer\\abstract\\icustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F86A5067-B154-4853-83AC-45B4243E276D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\abstract\\icustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86A5067-B154-4853-83AC-45B4243E276D}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\skrll\\onedrive\\masa\u00FCst\u00FC\\github\\asp.net_core_mvc\\demo_product\\dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F86A5067-B154-4853-83AC-45B4243E276D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|c:\\users\\skrll\\onedrive\\masa\u00FCst\u00FC\\github\\asp.net_core_mvc\\demo_product\\demo_product\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,88 +46,127 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Demo_Product\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Controllers\\CustomerController.cs*",
+              "RelativeToolTip": "Demo_Product\\Controllers\\CustomerController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:14:31.175Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UpdateProduct.cshtml",
-              "DocumentMoniker": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Views\\Product\\UpdateProduct.cshtml",
-              "RelativeDocumentMoniker": "Demo_Product\\Views\\Product\\UpdateProduct.cshtml",
-              "ToolTip": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Views\\Product\\UpdateProduct.cshtml",
-              "RelativeToolTip": "Demo_Product\\Views\\Product\\UpdateProduct.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-25T18:32:15.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AddProduct.cshtml",
-              "DocumentMoniker": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Views\\Product\\AddProduct.cshtml",
-              "RelativeDocumentMoniker": "Demo_Product\\Views\\Product\\AddProduct.cshtml",
-              "ToolTip": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Views\\Product\\AddProduct.cshtml",
-              "RelativeToolTip": "Demo_Product\\Views\\Product\\AddProduct.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-25T18:15:23.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Partial_SideBar.cshtml",
-              "DocumentMoniker": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Views\\Partials\\Partial_SideBar.cshtml",
-              "RelativeDocumentMoniker": "Demo_Product\\Views\\Partials\\Partial_SideBar.cshtml",
-              "ToolTip": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Views\\Partials\\Partial_SideBar.cshtml",
-              "RelativeToolTip": "Demo_Product\\Views\\Partials\\Partial_SideBar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-25T18:12:39.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_UILayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Views\\Shared\\_UILayout.cshtml",
-              "RelativeDocumentMoniker": "Demo_Product\\Views\\Shared\\_UILayout.cshtml",
-              "ToolTip": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Views\\Shared\\_UILayout.cshtml",
-              "RelativeToolTip": "Demo_Product\\Views\\Shared\\_UILayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-25T18:11:39.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "Demo_Product\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "Demo_Product\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-25T18:03:32.722Z",
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\BusinessLayer\\Abstract\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\BusinessLayer\\Abstract\\ICustomerService.cs*",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\ICustomerService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:21:37.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Demo_Product\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Demo_Product\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAwDoAAAADAAAAAAAAAA==",
+              "Title": "CustomerManager.cs",
+              "DocumentMoniker": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\BusinessLayer\\Concrete\\CustomerManager.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\CustomerManager.cs",
+              "ToolTip": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\BusinessLayer\\Concrete\\CustomerManager.cs*",
+              "RelativeToolTip": "BusinessLayer\\Concrete\\CustomerManager.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T18:02:31.634Z",
+              "WhenOpened": "2024-08-30T13:21:29.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobManager.cs",
+              "DocumentMoniker": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\BusinessLayer\\Concrete\\JobManager.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\JobManager.cs",
+              "ToolTip": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\BusinessLayer\\Concrete\\JobManager.cs",
+              "RelativeToolTip": "BusinessLayer\\Concrete\\JobManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:21:13.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IJobService.cs",
+              "DocumentMoniker": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\BusinessLayer\\Abstract\\IJobService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\IJobService.cs",
+              "ToolTip": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\BusinessLayer\\Abstract\\IJobService.cs*",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\IJobService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:20:08.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EfCustomerDal.cs",
+              "DocumentMoniker": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\DataAccessLayer\\EntityFramework\\EfCustomerDal.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfCustomerDal.cs",
+              "ToolTip": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\DataAccessLayer\\EntityFramework\\EfCustomerDal.cs*",
+              "RelativeToolTip": "DataAccessLayer\\EntityFramework\\EfCustomerDal.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:17:48.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGenericDal.cs",
+              "DocumentMoniker": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ToolTip": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeToolTip": "DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:16:41.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICustomerDal.cs",
+              "DocumentMoniker": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\DataAccessLayer\\Abstract\\ICustomerDal.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\ICustomerDal.cs",
+              "ToolTip": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\DataAccessLayer\\Abstract\\ICustomerDal.cs*",
+              "RelativeToolTip": "DataAccessLayer\\Abstract\\ICustomerDal.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:16:26.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo_Product\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Views\\Customer\\Index.cshtml*",
+              "RelativeToolTip": "Demo_Product\\Views\\Customer\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T13:14:55.621Z",
               "EditorCaption": ""
             }
           ]

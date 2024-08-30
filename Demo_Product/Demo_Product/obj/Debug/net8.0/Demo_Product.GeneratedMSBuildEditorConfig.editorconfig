@@ -26,12 +26,36 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\skrll\OneDrive\Masaüstü\Github\ASP.NET_CORE_MVC\Demo_Product\Demo_Product
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/skrll/OneDrive/Masaüstü/Github/ASP.NET_CORE_MVC/Demo_Product/Demo_Product/Views/Customer/AddCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQWRkQ3VzdG9tZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skrll/OneDrive/Masaüstü/Github/ASP.NET_CORE_MVC/Demo_Product/Demo_Product/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skrll/OneDrive/Masaüstü/Github/ASP.NET_CORE_MVC/Demo_Product/Demo_Product/Views/Customer/UpdateCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcVXBkYXRlQ3VzdG9tZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/skrll/OneDrive/Masaüstü/Github/ASP.NET_CORE_MVC/Demo_Product/Demo_Product/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/skrll/OneDrive/Masaüstü/Github/ASP.NET_CORE_MVC/Demo_Product/Demo_Product/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skrll/OneDrive/Masaüstü/Github/ASP.NET_CORE_MVC/Demo_Product/Demo_Product/Views/Job/AddJob.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXEFkZEpvYi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skrll/OneDrive/Masaüstü/Github/ASP.NET_CORE_MVC/Demo_Product/Demo_Product/Views/Job/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skrll/OneDrive/Masaüstü/Github/ASP.NET_CORE_MVC/Demo_Product/Demo_Product/Views/Job/UpdateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXFVwZGF0ZVByb2R1Y3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/skrll/OneDrive/Masaüstü/Github/ASP.NET_CORE_MVC/Demo_Product/Demo_Product/Views/Partials/Partial_Footer.cshtml]

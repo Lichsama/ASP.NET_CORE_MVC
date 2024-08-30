@@ -4,7 +4,7 @@
     Layout = "~/Views/Shared/_UILayout.cshtml";
 }
 
-<form method="post">
+<form method="post"> 
     @Html.Label("Ürün Adı")
     @Html.TextBoxFor(x=>x.Name, new { @class="form-control"})
     @Html.ValidationMessageFor(x=>x.Name)
