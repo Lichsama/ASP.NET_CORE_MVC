@@ -1,4 +1,4 @@
-﻿
+﻿@model Demo_Product.Models.UserRegisterViewModel
 @{
     Layout = null;  
 }
@@ -24,42 +24,56 @@
                                 <div class="card shadow-lg border-0 rounded-lg mt-5">
                                     <div class="card-header"><h3 class="text-center font-weight-light my-4">Yeni Hesap Oluşturun</h3></div>
                                     <div class="card-body">
-                                        <form>
+                                        <form method="post">
                                             <div class="row mb-3">
                                                 <div class="col-md-6">
                                                     <div class="form-floating mb-3 mb-md-0">
-                                                        <input class="form-control" id="inputFirstName" type="text" placeholder="Enter your first name" />
+                                                        <input class="form-control" name="Name" id="inputFirstName" type="text"/>
                                                         <label for="inputFirstName">Adınız</label>
+                                                        <span asp-validation-for="Name"></span>
                                                     </div>
                                                 </div>
                                                 <div class="col-md-6">
                                                     <div class="form-floating">
-                                                        <input class="form-control" id="inputLastName" type="text" placeholder="Enter your last name" />
+                                                        <input class="form-control" name="Surname" id="inputLastName" type="text"/>
                                                         <label for="inputLastName">Soyadınız</label>
+                                                    <span asp-validation-for="Surname"></span>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="form-floating mb-3">
-                                                <input class="form-control" id="inputEmail" type="email" placeholder="name@example.com" />
-                                                <label for="inputEmail">Email adrsiniz</label>
+                                                <input class="form-control" name="Mail" id="inputEmail" type="email"/>
+                                                <label for="inputEmail">Email adresiniz</label>
+                                            <span asp-validation-for="Mail"></span>
                                             </div>
+                                        <div class="form-floating mb-3">
+                                            <input class="form-control" name="UserName" id="inputUserName" type="text"/>
+                                            <label for="inputUserNamel">Kullanıcı Adı</label>
+                                            <span asp-validation-for="UserName"></span>
+                                        </div>
+                                        <div class="form-floating mb-3">
+                                            <input class="form-control" name="Gender" id="inputGender" type="text" />
+                                            <label for="inputUserNamel">Cinsiyet</label>
+                                            <span asp-validation-for="Gender"></span>
+                                        </div>
                                             <div class="row mb-3">
                                                 <div class="col-md-6">
                                                     <div class="form-floating mb-3 mb-md-0">
-                                                        <input class="form-control" id="inputPassword" type="password" placeholder="Create a password" />
+                                                        <input class="form-control" name="Password" id="inputPassword" type="password"/>
                                                         <label for="inputPassword">Şifreniz</label>
+                                                    <span asp-validation-for="Password"></span>
                                                     </div>
                                                 </div>
                                                 <div class="col-md-6">
                                                     <div class="form-floating mb-3 mb-md-0">
-                                                        <input class="form-control" id="inputPasswordConfirm" type="password" placeholder="Confirm password" />
-                                                        <label for="inputPasswordConfirm">Şifrenizi Doğrulayın</label>
+                                                        <input class="form-control" name="ConfirmPassword" id="inputPasswordConfirm" type="password"/>
+                                                    <label for="inputConfirmPassword">Şifrenizi Doğrulayın</label>
+                                                    <span asp-validation-for="ConfirmPassword"></span>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="mt-4 mb-0">
-                                                <div class="d-grid"><a class="btn btn-primary btn-block" href="login.html">Hesabı Oluştur</a></div>
-                                            </div>
+                                            <div class="text-danger" asp-validation-summary="ModelOnly"></div>
+                                        <button class="btn btn-primary btn-block">Hesap Oluştur</button>
                                         </form>
                                     </div>
                                     <div class="card-footer text-center py-3">

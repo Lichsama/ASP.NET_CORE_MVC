@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|c:\\users\\skrll\\onedrive\\masa\u00FCst\u00FC\\github\\asp.net_core_mvc\\demo_product\\demo_product\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|c:\\users\\skrll\\onedrive\\masa\u00FCst\u00FC\\github\\asp.net_core_mvc\\demo_product\\demo_product\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|c:\\users\\skrll\\onedrive\\masa\u00FCst\u00FC\\github\\asp.net_core_mvc\\demo_product\\demo_product\\wwwroot\\startbootstrap-sb-admin-gh-pages\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\wwwroot\\startbootstrap-sb-admin-gh-pages\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|c:\\users\\skrll\\onedrive\\masa\u00FCst\u00FC\\github\\asp.net_core_mvc\\demo_product\\demo_product\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|c:\\users\\skrll\\onedrive\\masa\u00FCst\u00FC\\github\\asp.net_core_mvc\\demo_product\\demo_product\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|c:\\users\\skrll\\onedrive\\masa\u00FCst\u00FC\\github\\asp.net_core_mvc\\demo_product\\demo_product\\wwwroot\\startbootstrap-sb-admin-gh-pages\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\wwwroot\\startbootstrap-sb-admin-gh-pages\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|c:\\users\\skrll\\onedrive\\masa\u00FCst\u00FC\\github\\asp.net_core_mvc\\demo_product\\demo_product\\models\\userloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3341297C-910B-42AC-B8FE-85E392690342}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\models\\userloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,19 +26,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "register.html",
-              "DocumentMoniker": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\wwwroot\\startbootstrap-sb-admin-gh-pages\\register.html",
-              "RelativeDocumentMoniker": "Demo_Product\\wwwroot\\startbootstrap-sb-admin-gh-pages\\register.html",
-              "ToolTip": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\wwwroot\\startbootstrap-sb-admin-gh-pages\\register.html",
-              "RelativeToolTip": "Demo_Product\\wwwroot\\startbootstrap-sb-admin-gh-pages\\register.html",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAEUAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo_Product\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Demo_Product\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T18:46:06.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\wwwroot\\startbootstrap-sb-admin-gh-pages\\login.html",
+              "RelativeDocumentMoniker": "Demo_Product\\wwwroot\\startbootstrap-sb-admin-gh-pages\\login.html",
+              "ToolTip": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\wwwroot\\startbootstrap-sb-admin-gh-pages\\login.html",
+              "RelativeToolTip": "Demo_Product\\wwwroot\\startbootstrap-sb-admin-gh-pages\\login.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-08-30T15:10:25.845Z",
+              "WhenOpened": "2024-09-02T18:44:36.6Z",
               "EditorCaption": ""
             },
             {
@@ -43,28 +60,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Views\\Register\\Index.cshtml",
-              "RelativeDocumentMoniker": "Demo_Product\\Views\\Register\\Index.cshtml",
-              "ToolTip": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Views\\Register\\Index.cshtml*",
-              "RelativeToolTip": "Demo_Product\\Views\\Register\\Index.cshtml*",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEMAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-30T15:11:26.326Z",
+              "DocumentIndex": 3,
+              "Title": "UserLoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Models\\UserLoginViewModel.cs",
+              "RelativeDocumentMoniker": "Demo_Product\\Models\\UserLoginViewModel.cs",
+              "ToolTip": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Models\\UserLoginViewModel.cs",
+              "RelativeToolTip": "Demo_Product\\Models\\UserLoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T18:33:03.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegisterController.cs",
-              "DocumentMoniker": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Controllers\\RegisterController.cs",
-              "RelativeDocumentMoniker": "Demo_Product\\Controllers\\RegisterController.cs",
-              "ToolTip": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Controllers\\RegisterController.cs",
-              "RelativeToolTip": "Demo_Product\\Controllers\\RegisterController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Demo_Product\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\skrll\\OneDrive\\Masa\u00FCst\u00FC\\Github\\ASP.NET_CORE_MVC\\Demo_Product\\Demo_Product\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Demo_Product\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T15:10:00.838Z",
+              "WhenOpened": "2024-09-02T18:32:13.315Z",
               "EditorCaption": ""
             }
           ]
